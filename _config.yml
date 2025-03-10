@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Communicatiemiddelen
-email: doe ik niet aan
+title: Weeknotes van Kees
+email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Op deze website verschijnen mijn wekelijkse bedenksels.
+  Op deze website verschijnen mijn wekelijkse beslommeringen, gedachtes en/of bezigheden.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "kees.it.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://keeskeul.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
