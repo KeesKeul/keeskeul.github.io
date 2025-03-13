@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "De meta weeknote"
-date:   2025-13-19 19:34:00 +0100
-categories: jekyll update
+date:   2025-03-13 19:34:00 +0100
+categories: weeknotes
 ---
 Voordat ik ambtenaar werd, had ik nog niet eerder gehoord van de Wet open overheid (Woo). En toch werd het mijn hoofdfocus als beginnend ambtenaar bij de Regeringscommissaris Informatiehuishouding. Dat vond ik belangrijk werk, want zoals de website over de Wet open overheid zelf ook zegt: Iedereen heeft recht op informatie over wat de overheid doet, hoe ze dat doet en waarom. Dat kan op twee manieren, als iemand om die informatie vraagt, maar de wet zegt ook dat overheden die uit zichzelf openbaar zouden moeten maken.
 
