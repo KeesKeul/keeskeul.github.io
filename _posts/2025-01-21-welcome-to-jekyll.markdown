@@ -1,29 +1,13 @@
 ---
 layout: post
-title:  "Een week met eerste keren"
-date:   2025-01-19 18:00:00 +0100
+title:  "De meta weeknote"
+date:   2025-13-19 19:34:00 +0100
 categories: jekyll update
 ---
-You’ll find this post in your `_postsl` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Voordat ik ambtenaar werd, had ik nog niet eerder gehoord van de Wet open overheid (Woo). En toch werd het mijn hoofdfocus als beginnend ambtenaar bij de Regeringscommissaris Informatiehuishouding. Dat vond ik belangrijk werk, want zoals de website over de Wet open overheid zelf ook zegt: Iedereen heeft recht op informatie over wat de overheid doet, hoe ze dat doet en waarom. Dat kan op twee manieren, als iemand om die informatie vraagt, maar de wet zegt ook dat overheden die uit zichzelf openbaar zouden moeten maken.
 
-Jekyll requires blog post files to be named according to the following format:
+Toch is het soms wat eng om zo openlijk te zijn over wat we doen. Dat merkte ik veel en vaak bij de mensen met wie ik over de Woo sprak. Terwijl ik kijkend naar de uitkomsten steeds vaker concludeerde dat het niet eng hoeft te zijn, omdat wat er binnen de overheid gebeurt, desondanks dat het soms mis gaat, juist heel erg logisch is en het misschien ook goed is om dat te laten zien. Vooral ook niet alleen wanneer het goed gaat. Want het toont ook aan dat je leert en met elkaar verbetert.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Terug naar weeknotes. Vorige week schreef Anne zijn weeknote over “Hosting in slowmotion”. Hierin reflecteert hij op zijn teleurstellende ervaring tot dusverre, maar vooral wat het de basis voor een oproep om het met elkaar beter te doen. Toch zat ik vorige week vrijdag met enige zenuwen op de bank, want wat zouden de reacties gaan zijn. Nu, een week later blijkt dat de reacties verrassend positief zijn en zelfs een impuls vormen voor verbetering.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Toch weer terug naar de Wet open overheid. Is het schrijven van weeknotes een manier van actieve openbaarmaking zoals de Woo vraagt? En, laat het voorbeeld van Anne’s weeknote zien waarom dit zo belangrijk is en wat voor goede dingen er kunnen gebeuren als we open en transparant werken? Ik heb nog geen definitief antwoord op die vragen, maar weet wel dat het mij helpt om te reflecteren op mijn werk en hopelijk inspireert het anderen ook om dat in gezamenlijkheid te doen. Als Bureau Architectuur committeren we ons hier in ieder geval aan, naar het goede voorbeeld van de Government Digital Service tijdens zijn hoogtijdagen.
