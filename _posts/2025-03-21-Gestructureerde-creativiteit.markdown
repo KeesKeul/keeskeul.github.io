@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "De meta weeknote"
+date:   2025-03-13 19:34:00 +0100
+categories: weeknotes
+---
+De Wet open overheid (Woo) was voor mij, als nieuwbakken ambtenaar, aanvankelijk een onbekend terrein. Maar al snel werd het de kern van mijn werk, toen ik bij het team van de Regeringscommissaris Informatiehuishouding kwam. Dat vond ik belangrijk werk, en terecht, want zoals de Woo zelf voorschrijft: iedereen heeft recht op informatie over wat de overheid doet, hoe ze dat doet en waarom. Dat kan op twee manieren: door zelf informatie op te vragen, of door de overheid die informatie proactief te laten delen.
+
+Toch kan het eng zijn om zo open te zijn over wat je doet. De spanning tussen openheid en angst is een constante factor in de uitvoering van de Woo. Het was een terugkerend onderwerp in de gesprekken die ik met mensen had over de uitvoering van de Woo. Toch vond ik dat in de praktijk de uitkomsten van Woo-verzoeken vaak minder bedreigend waren dan verwacht. Wat de overheid doet, is meestal logisch en weloverwogen, zelfs als er incidenteel iets misgaat. Ik ben er dus ook van overtuigd dat het goed is om dit openlijk te delen. En dan niet alleen de successen, maar juist ook de momenten waarop het minder goed gaat. Want dan kunnen we laten zien dat we reflecteren, leren en samen werken aan verbetering.
+
+Terug naar het onderwerp weeknotes in deze weeknote over weeknotes. Vorige week schreef [Anne zijn weeknote](https://anneschuth.nl/2025/03/07/hosting-in-slow-motion.html) over “Hosting in slowmotion”. Hierin reflecteert hij op een teleurstellende ervaring tot dusverre, maar deze reflectie is wat mij betreft vooral de basis voor een oproep om het met elkaar beter te doen. En toch zat ik vorige week vrijdag, nadat de post wat meer aandacht kreeg dan verwacht, met enige zenuwen op de bank, want wat zouden de reacties gaan zijn... Openheid blijft spannend. Maar nu, een week later blijkt dat de reacties verrassend positief zijn en zelfs een impuls vormen voor verbetering. Toch handig dat 'working in the open.'
+
+Weer terug naar de Wet open overheid. Kunnen weeknotes dienen als een vorm van actieve openbaarmaking, zoals de Woo voorschrijft? Illustreert het voorbeeld van Anne's weeknote de waarde van open en transparant werken? En welke positieve effecten kan dit hebben? Hoewel ik nog geen definitieve antwoorden heb, merk ik dat het schrijven van weeknotes mij helpt te reflecteren op mijn werk. Ik hoop dat het anderen inspireert om hetzelfde te doen, samen. Bij Bureau Architectuur zetten we ons hier in elk geval voor in, geïnspireerd door de Government Digital Service in hun hoogtijdagen. Tot de volgende weeknote!
