@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nomen est omen"
-date:   2025-04-04 18:40:00 +0100
+date:   2025-04-04 18:40:00 +0200
 categories: weeknotes
 ---
 De werkweek is zo goed als voorbij dus het is weer tijd voor de weeknote (hierna nog wel het position paper "Van wet naar digitale werking" afmaken). De gewoonte om weeknotes erin te krijgen moet iets meer slijten, zo heb ik hem vorige week helaas vanwege wat onverwachte omstandigheden gemist. Dus deze week om hem goed te maken: **nomen est omen.**
