@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Braindrain"
+date:   2025-05-16 17:00:00 +0200
+categories: weeknotes
+---
+
+Na een onderbreking wegens vakantie is het weer tijd voor de weeknote! En deze week gaat hij over een ander bureau dan Bureau Architectuur, namelijk Bureau Buitenschot. Voor wie zich afvraagt, wat is dat, raad ik aan de meest recente en laatste aflevering van Tegenlicht te bekijken. Overigens erg jammer dat het de laatste is, maar dat is een andere weeknote.
+
+In deze aflevering concentreert zich op het werk van Mariana Mazzucato, The Big Con,. Een boek dat ik nog niet gelezen heb, maar wat volgens Claude gaat over:
+_"The Big Con" van Mariana Mazzucato kritiseert hoe management consultancy bedrijven zoals McKinsey en BCG publieke diensten hebben overgenomen. Ze stelt dat deze consultants belastinggeld verspillen, publieke waarde uitgraven voor privéwinst, en democratische processen ondermijnen door hun invloed op overheidsbeleid. Het boek pleit voor hervorming van de consultancy-industrie."_
+
+De aflevering start met de introductie van Pierre Bokma die zichzelf, terwijl hij diep in de camera kijkt, introduceert als Hans, Hans Buitenschot, consultant. De founder en managing director van Bureau Buitenschot. Hij stelt de kijker de vraag: _"Waarom bestaat er eigenlijk zoiets als consultancy?" Zijn antwoord: "Om jullie te verlossen van de zwaarste last in het leven: ergens verantwoordelijkheid voor nemen."_ Oef, die is raak, nog een vraag: _"Wie heeft er onlangs en openlijk ongezouten kritiek geleverd op de leiding van het bedrijf?"_ Wederom raak.
+
+En zo was het een intro die leidde tot een lang stuk tenenkrommend kijken en veel herkenning. Want het is nu eenmaal zo dat er vaak gebruik wordt gemaakt van kennis waarover iemand zelf (nog) niet beschikt. Op zich is daar niet zo'n probleem mee, want je kan nu eenmaal niet alles weten? Het probleem zit hem in het feit dat de handeling van het vergaren van kennis en op basis daarvan komen tot een oordeel wordt uitbesteed. De kennis wordt niet écht opgedaan, laat staan dat het doorleven van het daaruitkomende oordeel wordt gedaan. Wat ook jammer blijft, is de gemiste kans om met collega's binnen de overheid zelf te praten over hetgeen waar je mee bezig bent.
+
+Ik herkende veel en deelde dat er geen probleem hoeft te zijn met de inhuur van consultants. Eerder dit jaar huurde ik ook een consultant in: Public Digital. Nu is dat een ander soort consultant en slag mens, maar vooral zat het verschil in de manier waarop we werkten. We werkten namelijk samen. Ik was bij alle interviews, was betrokken bij alle gedachtevorming, presentaties, oordeelvorming. Ik doorleefde het proces dat zij volgden, en kon tegelijkertijd profiteren van de ervaring die ze hadden. Ik heb heel erg veel geleerd van dit traject. Zoveel dat de uitkomst me eigenlijk niet eens zoveel meer uitmaakt, ik kan in mijn werk veel meer met de opgedane lessen, dan dat het waarde heeft om ergens het eindrapport te presenteren. 
+
+Zijn we gedoemd als overheid door de consultancy braindrain, ik denk van niet. Maar(!)... we zouden wel gebaat zijn bij wat meer eigen nieuwsgierigheid. Daar is dan ook ruimte voor nodig, vooral in termen van tijd en benodigde focus. Ik ben heel erg blij dat in mijn team echte inhoudelijke kennis aanwezig is, want ik kan al heel veel leren van de mensen om me heen. Ik merk ook dat zij juist heel goed in staat zijn om zelf binnen de overheid informatie op te halen bij anderen met echte inhoudelijke kennis. Het is sinds de hulp van Public Digital niet meer in me opgekomen om een externe partij in te huren, simpelweg omdat het niet nodig is. We komen er binnen de overheid samen wel uit.
