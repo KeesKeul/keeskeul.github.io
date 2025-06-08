@@ -5,6 +5,8 @@ date:   2025-06-08 17:00:00 +0200
 categories: weeknotes
 ---
 
+DEZE WEEKNOTE IS HELAAS NOG NIET AF - WORDT AAN GEWERKT
+
 Er staat een duur woord in de titel van deze weeknote: institutionaliseren. Dus voordat we van wal steken, eerst even uitleggen wat ik daarmee bedoel in dit stuk. Dus met behulpt can Claude rammen we deze definitie eruit: _"Het proces waarbij bepaalde praktijken, normen, regels of procedures worden vastgelegd en geformaliseerd binnen een organisatie of samenleving, zodat ze een **blijvend en geaccepteerd onderdeel worden **van het functioneren."_ En zoals je ziet heb ik daar een stukje dikgedrukt gemaakt, want dat is waar het me om gaat.
 
 Waarom deze titel, deze week? Vrij simpel, dat was denk ik het hoogtepunt van mijn week, vooral ook omdat ik door had dat we hier echt iets anders proberen te doen. Dat gaat dan ook met horten en stoten, maar er is een groep mensen betrokken die graag wil en bovenal in staat is om te reflecteren op het geen ze proberen te doen. 
