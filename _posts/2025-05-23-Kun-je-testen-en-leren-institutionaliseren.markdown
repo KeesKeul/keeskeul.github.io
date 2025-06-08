@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Zonder wrijving geen glans"
+date:   2025-05-23 17:00:00 +0200
+categories: weeknotes
+---
+
+Deze weeknote gaat over feedback – iets waar we als overheid misschien niet altijd aan gewend zijn. Het is een onderwerp waar ik al vanaf het begin van mijn ambtenarenleven mee worstel.
+
+Best een tijd geleden luisterde ik naar een podcast waarin werd gesproken over Chris Argyris, een organisatiepsycholoog die baanbrekend onderzoek deed naar wat hij 'defensieve routines' noemde. Op zijn laatste werkdag bij het Signal Corps kwam een van de informele leiders van zijn groep zijn kantoor binnen met het merendeel van zijn werknemers. Ze vertelden hem hoe prettig het was om met hem te werken, gaven hem cadeautjes en wensten hem veel geluk. Het was een vleiende ervaring. Maar hier komt het cruciale punt: Terug in New Jersey merkte Argyris dat mensen hem veel minder waardeerden dan tijdens zijn legerjaren. Toen hij later terugkeerde naar Chicago voor sollicitatiegesprekken, besloot hij zijn opvolger bij het Signal Corps op te zoeken om te vragen hoe het werkelijk was om voor hem te werken. Zijn opvolger antwoordde: "Wil je dat echt weten?" Waarna hij begon te vertellen hoe veeleisend en autocratisch Argyris wel was en hoe moeilijk het was om hem als baas te hebben. Voor hem genoeg reden om te onderzoeken waarom mensen zich zo tegen hem gedroegen.
+
+Door zijn onderzoek ontdekte Argyris dat er vaak een groot verschil bestaat tussen wat mensen zeggen te doen (hun 'beleden theorie') en wat ze werkelijk doen (hun 'gebruikstheorie'). Hij werd gefascineerd door de vraag waarom mensen in organisaties elkaar niet aanspreken op contraproductief gedrag, ook al weten ze dat dit gedrag de samenwerking belemmert.
+Hij beschrijft dit als een defensieve organisatiecultuur, en dat is ook iets wat ik soms terugzie binnen de overheid. We durven elkaar niet altijd aan te spreken op gedrag dat niet bepaald behulpzaam is bij het doel dat we samen willen bereiken. Vooral niet richting andere organisaties – want we moeten goede verhoudingen bewaren voor de volgende keer dat we ze nodig hebben. En al helemaal niet richting leidinggevenden, want dat zou weleens een carrièrebeperkende maatregel kunnen zijn. Ik heb zelf nog niet zo'n goed antwoord op waarom dit ontstaat en wat je goed kan doen om dit stapje voor stapje te verbeteren. Tips zijn dus erg welkom.
+
+Bij Bureau Architectuur is dat ook iets waar we aan moeten werken. Na een aantal jaar werken binnen de overheid zijn we soms niet meer gewend aan feedback. We zien het zelfs als een negatief signaal: o wee als je iets niet goed hebt gedaan. Ik zou zeggen: prima, er gaan dingen mis, maar als dat gebeurt, laten we er dan van leren. Dat laatste doe je niet alleen – daar kun je elkaar bij helpen. En vaak zijn de gesprekken waarin je merkt dat het botst, maar waar je wel open met elkaar praat, de gesprekken waarin je echt met elkaar verder komt.
+
+Overigens was de gedachte dat ik weinig feedback zou krijgen was onderdeel van mijn overweging of ik wel bij de overheid moest gaan werken. Want vooral als je jong bent, wil je zoveel mogelijk leren, en dat doe je van mensen die ergens goed in zijn en jou kunnen helpen beter te worden. Dat betekent samen reflecteren op hoe je iets doet en zeggen dat sommige dingen beter kunnen. Ik wil zelf graag eerlijker zijn en vaker zonder grote omhaal feedback geven. Want het stelt niet zoveel voor, en indien goed gegeven is feedback – hoe cliché het ook klinkt – echt een cadeautje.
