@@ -1,0 +1,306 @@
+---
+---
+
+@import "minima";
+
+/* ========================================
+   BUREAUCRATIC TERMINAL THEME
+   Dark Navy + Coding Aesthetics
+   ======================================== */
+
+/* Color Palette - Bureaucratic Blue meets Terminal */
+:root {
+  --navy-dark: #0a1628;
+  --navy-medium: #1a2332;
+  --navy-light: #2a3442;
+  --text-white: #f5f5f5;
+  --text-gray: #b8c5d6;
+  --accent-green: #4ec9b0;
+  --accent-blue: #569cd6;
+  --accent-yellow: #dcdcaa;
+  --border-color: #3a4552;
+}
+
+/* Base Reset */
+body {
+  background-color: var(--navy-dark);
+  color: var(--text-white);
+  font-family: "Merriweather", "Georgia", serif;
+  line-height: 1.8;
+  margin: 0;
+  padding: 0;
+}
+
+/* Container */
+.wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+/* Header - Terminal Style */
+.site-header {
+  border-top: none;
+  border-bottom: 2px solid var(--accent-green);
+  background-color: var(--navy-medium);
+  padding: 1.5rem 0;
+  margin-bottom: 3rem;
+}
+
+.site-title {
+  font-family: "Courier New", monospace;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--accent-green);
+  letter-spacing: 0.05em;
+  text-decoration: none;
+}
+
+.site-title:visited {
+  color: var(--accent-green);
+}
+
+.site-title::before {
+  content: "$ ";
+  color: var(--accent-blue);
+}
+
+.site-title::after {
+  content: "█";
+  animation: blink 1s infinite;
+  color: var(--text-white);
+  margin-left: 0.25rem;
+}
+
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+
+/* Navigation - Hide it for minimal design */
+.site-nav {
+  display: none;
+}
+
+/* Homepage - Weeknotes List */
+.home {
+  background-color: var(--navy-dark);
+}
+
+.page-heading {
+  font-family: "Courier New", monospace;
+  color: var(--accent-yellow);
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 2rem;
+  border-left: 3px solid var(--accent-green);
+  padding-left: 1rem;
+}
+
+/* Weeknote List Items */
+.post-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.post-list > li {
+  background-color: var(--navy-medium);
+  border-left: 3px solid var(--border-color);
+  margin-bottom: 2.5rem;
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+}
+
+.post-list > li:hover {
+  border-left-color: var(--accent-green);
+  background-color: var(--navy-light);
+  transform: translateX(5px);
+}
+
+/* Post Metadata - Terminal Style */
+.post-meta {
+  font-family: "Courier New", monospace;
+  font-size: 0.85rem;
+  color: var(--accent-blue);
+  margin-bottom: 0.75rem;
+  letter-spacing: 0.05em;
+}
+
+.post-meta::before {
+  content: "// ";
+  color: var(--text-gray);
+}
+
+/* Post Title */
+.post-link {
+  font-family: "Merriweather", "Georgia", serif;
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--text-white);
+  text-decoration: none;
+  display: block;
+  margin-bottom: 1rem;
+  line-height: 1.3;
+}
+
+.post-link:visited {
+  color: var(--text-white);
+}
+
+.post-link:hover {
+  color: var(--accent-green);
+}
+
+/* Post Excerpt */
+.post-excerpt {
+  font-size: 1rem;
+  color: var(--text-gray);
+  line-height: 1.7;
+  margin-bottom: 1rem;
+}
+
+/* Read More Link */
+.read-more {
+  font-family: "Courier New", monospace;
+  font-size: 0.9rem;
+  color: var(--accent-green);
+  text-decoration: none;
+  border: 1px solid var(--accent-green);
+  padding: 0.4rem 1rem;
+  display: inline-block;
+  transition: all 0.2s ease;
+}
+
+.read-more:hover {
+  background-color: var(--accent-green);
+  color: var(--navy-dark);
+}
+
+.read-more::after {
+  content: " →";
+}
+
+/* Single Post Page */
+.post-header {
+  margin-bottom: 2rem;
+  border-bottom: 2px solid var(--border-color);
+  padding-bottom: 1.5rem;
+}
+
+.post-title {
+  font-family: "Merriweather", "Georgia", serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--text-white);
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+/* Post Content */
+.post-content {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: var(--text-gray);
+}
+
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4 {
+  color: var(--text-white);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.post-content h2 {
+  font-size: 1.75rem;
+  border-left: 3px solid var(--accent-green);
+  padding-left: 1rem;
+}
+
+.post-content p {
+  margin-bottom: 1.5rem;
+}
+
+.post-content a {
+  color: var(--accent-blue);
+  text-decoration: underline;
+}
+
+.post-content a:hover {
+  color: var(--accent-green);
+}
+
+/* Code Blocks - Terminal Style */
+.post-content code {
+  font-family: "Courier New", monospace;
+  background-color: var(--navy-light);
+  color: var(--accent-yellow);
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+.post-content pre {
+  background-color: var(--navy-light);
+  border-left: 3px solid var(--accent-green);
+  padding: 1rem;
+  overflow-x: auto;
+  border-radius: 3px;
+}
+
+.post-content pre code {
+  background-color: transparent;
+  padding: 0;
+}
+
+/* Footer */
+.site-footer {
+  border-top: 2px solid var(--border-color);
+  background-color: var(--navy-medium);
+  padding: 2rem 0;
+  margin-top: 4rem;
+  color: var(--text-gray);
+  font-family: "Courier New", monospace;
+  font-size: 0.85rem;
+}
+
+.footer-heading {
+  font-size: 1rem;
+  color: var(--accent-blue);
+  margin-bottom: 1rem;
+}
+
+/* Links */
+a {
+  color: var(--accent-blue);
+}
+
+a:visited {
+  color: var(--accent-blue);
+}
+
+a:hover {
+  color: var(--accent-green);
+}
+
+/* Responsive */
+@media screen and (max-width: 600px) {
+  .wrapper {
+    padding: 1rem;
+  }
+
+  .post-title {
+    font-size: 2rem;
+  }
+
+  .post-link {
+    font-size: 1.5rem;
+  }
+
+  .post-content {
+    font-size: 1rem;
+  }
+}
