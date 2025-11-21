@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I love it when a plan starts to come together"
-date:   2025-11-21 19:34:00 +0100
+date:   2025-11-21 16:30:00 +0100
 categories: weeknotes
 ---
 Deze week heb ik veel tijd en energie gestoken in contact met het team. Dat voelde goed. De kwartiermakersfase wordt gezien als voorbij, en dat betekent een verschuiving: minder inhoudelijk werk, meer aandacht voor de mensen en de basis van ons samenwerken. Hoewel ik denk dat we die kwartiermakersfase nog niet helemaal achter ons hebben gelaten, is het fijn om meer ruimte te hebben voor dit werk.
